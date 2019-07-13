@@ -66,3 +66,6 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+/.DS_Store
+/PullToDismiss.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+/PullToDismiss.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
